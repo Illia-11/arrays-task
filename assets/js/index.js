@@ -57,7 +57,7 @@ console.log(arr8Slice);
 console.log('==Task 9==');
 const arr9 = ['first', 'second', 'third', 'fourth', 'last'];
 const arr9Reverse = arr9.reverse();
-console.log(arr9);
+console.log(arr9Reverse);
 
 // task 10
 console.log('==Task 10==');
